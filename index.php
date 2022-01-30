@@ -13,6 +13,7 @@
   gtag('js', new Date());
 
   gtag('config', 'AW-10846539422');
+
 </script>
 
 </head>
